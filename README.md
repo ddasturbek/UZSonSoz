@@ -55,3 +55,5 @@ print(USS.SozdanSonga('O‘ttiz to‘qqiz MILLION yetti yuz to‘qson olti MING 
 
 print(USS.SozdanSonga('Boshqa so‘z'))  # Bosh so‘z
 ```
+
+*So‘zlarni songa aylantirganda, funksiya so‘zlarning katta-kichikligini inobatga olmagan holda to‘g‘ri ishlaydi!*
