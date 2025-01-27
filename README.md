@@ -1,4 +1,4 @@
-# UZSonSoz
+# UzSonSoz
 
 UzSonSoz — bu o‘zbek tilidagi sonlarni so‘z bilan ifodalash va aksincha so‘zlarni songa aylantirish uchun yaratilgan kutubxona. Ushbu kutubxona sonlarni o'qish va yozish uchun oddiy va samarali hisoblanadi.
 
