@@ -53,7 +53,7 @@ print(USS.SozdanSonga('Uch Ming Olti Yuz Qirq Yetti'))  # 3647
 print(USS.SozdanSonga('yettiz yuz ellik olti ming ellik'))  # 756050
 print(USS.SozdanSonga('O‘ttiz to‘qqiz MILLION yetti yuz to‘qson olti MING bir YUZ ellik bir'))  # 39796151
 
-print(USS.SozdanSonga('Boshqa so‘z'))  # Bosh so‘z
+print(USS.SozdanSonga('Boshqa so‘z'))  # Boshqa so‘z
 ```
 
 *So‘zlarni songa aylantirganda, funksiya so‘zlarning katta-kichikligini inobatga olmagan holda to‘g‘ri ishlaydi!*
